@@ -20,6 +20,12 @@ and perhaps overlaying text in the movie with Esperanto (where it can be done cl
 
 Script currently needs to be translated into Esperanto. Nothing else can really be done until then. ;)
 
+## Contributing
+
+### Translation
+
+For those of you helping out with translation, if you need help with how to use Git, please let me know (RachelJMorris@gmail.com) - You can also edit the script file from the GitHub web interface itself; click the **script.txt** file, and there's an edit icon next to the **history** button.
+
 ## Volunteer Roles
 
 Definitely need some volunteers!
@@ -45,12 +51,6 @@ People who can speak Esperanto well, to read lines for characters in the movie
 Someone to edit together the movie.
 
 (Rachel wants to do this unless someone else really really wants to!)
-
-## Contributing
-
-### Translation
-
-For those of you helping out with translation, if you need help with how to use Git, please let me know (RachelJMorris@gmail.com) - You can also edit the script file from the GitHub web interface itself; click the **script.txt** file, and there's an edit icon next to the **history** button.
 
 ## License
 
