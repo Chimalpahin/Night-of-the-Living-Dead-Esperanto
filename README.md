@@ -51,3 +51,9 @@ Someone to edit together the movie.
 ### Translation
 
 For those of you helping out with translation, if you need help with how to use Git, please let me know (RachelJMorris@gmail.com) - You can also edit the script file from the GitHub web interface itself; click the **script.txt** file, and there's an edit icon next to the **history** button.
+
+## License
+
+My intention is for the final product to be licensed as a CC-By or CC-0 (public domain) movie. I would like people to be able to redistribute the translation without restriction, and yes even sell if they can figure out how.
+
+See [Creative Commons Licenses](https://creativecommons.org/licenses/)
