@@ -22,6 +22,12 @@ Script currently needs to be translated into Esperanto. Nothing else can really 
 
 ## Contributing
 
+### How to Contribute
+
+You will need a GitHub account to be added as a collaborator.
+
+Email RachelJMorris@gmail.com if you'd like to be added as a collaborator. Otherwise contact Rachel through [Twitter](https://twitter.com/rejcxeo) or [Facebook](https://www.facebook.com/Rejchelo)
+
 ### Translation
 
 For those of you helping out with translation, if you need help with how to use Git, please let me know (RachelJMorris@gmail.com) - You can also edit the script file from the GitHub web interface itself; click the **script.txt** file, and there's an edit icon next to the **history** button.
