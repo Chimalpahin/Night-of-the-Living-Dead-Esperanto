@@ -16,6 +16,10 @@ This will include redubbing character lines to be in Esperanto,
 as well as perhaps finding new music and sound effects to edit into the movie,
 and perhaps overlaying text in the movie with Esperanto (where it can be done cleanly).
 
+## Current Phase
+
+Script currently needs to be translated into Esperanto. Nothing else can really be done until then. ;)
+
 ## Volunteer Roles
 
 Definitely need some volunteers!
