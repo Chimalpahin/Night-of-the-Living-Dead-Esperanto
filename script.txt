@@ -17,8 +17,17 @@ CHARACTERNAME-ENGLISH
 
 CHARACTERS:
 
-* Barbara 	- (Esperantized name?)
-* John 		- (Esperantized name?)
+I don't know how many people are referenced by name
+
+* Barbara - Barbara
+* John - Johano
+* Ben - Beno
+* Harry - Hario
+* Helen - Helena
+* Tom - Tomaso
+* Judy - Ĵudio
+* Karen - Karina
+* Sheriff McClelland - Ŝerifo Maklelano
 
 ---------------------------------------------------------------
 
