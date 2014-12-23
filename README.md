@@ -24,7 +24,7 @@ Script currently needs to be translated into Esperanto. Nothing else can really 
 
 ### How to Contribute
 
-You will need a GitHub account to be added as a collaborator.
+You will need a GitHub account to be added as a collaborator. (At least to edit the script translations).
 
 Email RachelJMorris@gmail.com if you'd like to be added as a collaborator. Otherwise contact Rachel through [Twitter](https://twitter.com/rejcxeo) or [Facebook](https://www.facebook.com/Rejchelo)
 
