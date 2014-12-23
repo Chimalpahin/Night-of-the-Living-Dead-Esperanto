@@ -30,6 +30,9 @@ I don't know how many people are referenced by name
 * Sheriff McClelland - Ŝerifo Maklelano
 
 ---------------------------------------------------------------
+Please feel free to make any changes for correctness, or for more natural sound.
+GitHub logs who changes what, not a big deal.
+---------------------------------------------------------------
 
 BARBARA
 They ought to make the day the time changes the first day of summer. Then two good things would happen all at once.
@@ -43,12 +46,18 @@ A lot of good the extra daylight does me. i lost an hour’s sleep. And it’s d
 
 BARBARA
 If it really dragged you that much, you wouldn’t do it.
+Se ĝi fakte ĝenas vin tiel, vi ne farus tion.
 
 JOHN
-Are you kidding?  I certainly don’t want to blow sunday on this scene. We’re gonna either have to move mother to Parkville or move the grave to pittsburgh.
+Are you kidding?  I certainly don’t want to blow sunday on this scene. 
+Ĉu vi ŝercas? Certe, mi ne volas malŝpari dimanĉon tie ĉi. 
+
+We’re gonna either have to move mother to Parkville or move the grave to pittsburgh.
+Ni devas aŭ transloĝigi panjon al Parkurbeto aŭ transloĝigi la tombon al Picburgo.
 
 BARBARA
 Oh, you’re just being silly. Mother can’t make a drive like this.
+Ho, vi estas fola. Panjo ne povas veturi longe.
 
 JOHN
 Look, twenty-five dollars ... “We Still Remember”... I don’t, you know it ... I don’t remember what the guy looks like.
