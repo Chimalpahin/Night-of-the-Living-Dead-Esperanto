@@ -5,7 +5,7 @@ Translation of the public domain movie, "Night of the Living Dead", into Esperan
 
 Script is available at: http://wdjoyner.org/zombies/romero-etal_night-of-the-living-dead_script-1968.pdf
 
-
+.srt file from http://www.opensubtitles.org/en/subtitles/3614689/night-of-the-living-dead-en
 
 ## About Project
 
