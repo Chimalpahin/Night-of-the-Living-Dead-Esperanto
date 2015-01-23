@@ -36,6 +36,16 @@ Please feel free to make any changes for correctness, or for more natural sound.
 GitHub logs who changes what, not a big deal.
 ---------------------------------------------------------------
 
+
+*******************************************************************
+1. "Antaŭmontro" - preview of the project will contain the first 
+scene of the movie translated, re-dubbed, and with new music/sound,
+in order to try to get people interested in helping out.
+
+This is the beginning of the Antaŭmontro script.
+*******************************************************************
+
+
 BARBARA
 They ought to make the day the time changes the first day of summer. Then two good things would happen all at once.
 
@@ -207,6 +217,10 @@ Hey... god...
 
 BARBARA
 Johnee....
+
+*******************************************************************
+This is the ending of the Antaŭmontro script.
+*******************************************************************
 
 ---
 
