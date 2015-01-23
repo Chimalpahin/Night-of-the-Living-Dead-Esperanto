@@ -34,6 +34,9 @@ I don't know how many people are referenced by name
 ---------------------------------------------------------------
 Please feel free to make any changes for correctness, or for more natural sound.
 GitHub logs who changes what, not a big deal.
+Seriously, I mainly use Esperanto conversationally and I'm not
+used to a more cinematic style of writing, so improve upon it!
+-Rachel
 ---------------------------------------------------------------
 
 
@@ -45,16 +48,35 @@ in order to try to get people interested in helping out.
 This is the beginning of the Antaŭmontro script.
 *******************************************************************
 
-
+00:02:14,551 --> 00:02:17,815
 BARBARA
-They ought to make the day the time changes the first day of summer. Then two good things would happen all at once.
+They ought to make the day the time changes the first day of summer.
+La unua tago de la somero devas esti la komenco de somera tempo. 
+
+NOTE: According to ESPDIC, "somera tempo : daylight saving time, summer time", so this line sounds kind of weird.
+
+00:02:17,900 --> 00:02:19,155
+JOHN
+What?
+Kio?
+
+
+Pro tio, du bonaferoj okazus samtempe.
+
+
 
 BARBARA
 I love the long days and the extra sun.
 Mia amas la longtagojn kaj la ekstrajn sunlumojn.
 
+
 JOHN
-A lot of good the extra daylight does me. i lost an hour’s sleep. And it’s dark already, and we still have a three-hour drive, and we won’t get back till after midnight.
+A lot of good the extra daylight does me. i lost an hour’s sleep. 
+Ekstraj sunlumoj estas sentaŭga, laŭ mi. Mi malgajnas unu horon por dormi.
+
+And it’s dark already, and we still have a three-hour drive, and we won’t get back till after midnight.
+Estas jam malluma, kaj ni bezonas veturi tri horojn plu - ni ne revenos ĝis post meznokto.
+
 
 BARBARA
 If it really dragged you that much, you wouldn’t do it.
