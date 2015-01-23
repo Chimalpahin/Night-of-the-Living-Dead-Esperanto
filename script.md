@@ -5,6 +5,9 @@ English -> Esperanto Script
 Original Script at
 http://wdjoyner.org/zombies/romero-etal_night-of-the-living-dead_script-1968.pdf
 
+^ THIS SCRIPT DOESN'T MATCH THE MOVIE AS CLOSELY AS THE .SRT FILE I FOUND.
+SOME LINES MAY NEED TO BE DOUBLE-CHECKED.
+
 ---------------------------------------------------------------
 
 FORMAT:
@@ -37,6 +40,7 @@ GitHub logs who changes what, not a big deal.
 Seriously, I mainly use Esperanto conversationally and I'm not
 used to a more cinematic style of writing, so improve upon it!
 -Rachel
+
 ---------------------------------------------------------------
 
 
@@ -48,197 +52,466 @@ in order to try to get people interested in helping out.
 This is the beginning of the Antaŭmontro script.
 *******************************************************************
 
+## BARBARA
+
 00:02:14,551 --> 00:02:17,815
-BARBARA
+
 They ought to make the day the time changes the first day of summer.
+
 La unua tago de la somero devas esti la komenco de somera tempo. 
 
 NOTE: According to ESPDIC, "somera tempo : daylight saving time, summer time", so this line sounds kind of weird.
 
+
+## JOHN
+
 00:02:17,900 --> 00:02:19,155
-JOHN
+
 What?
+
 Kio?
 
 
-Pro tio, du bonaferoj okazus samtempe.
+## BARBARA
+
+00:02:19,323 --> 00:02:21,416
+
+Well, it's eight o'clock and it's still light.
+
+Nu, estas oka horo kaj estas ankoraŭ luma.
 
 
+## JOHN
 
-BARBARA
-I love the long days and the extra sun.
-Mia amas la longtagojn kaj la ekstrajn sunlumojn.
+00:02:21,541 --> 00:02:24,262
 
+A lot of good the extra daylight does us.
 
-JOHN
-A lot of good the extra daylight does me. i lost an hour’s sleep. 
-Ekstraj sunlumoj estas sentaŭga, laŭ mi. Mi malgajnas unu horon por dormi.
-
-And it’s dark already, and we still have a three-hour drive, and we won’t get back till after midnight.
-Estas jam malluma, kaj ni bezonas veturi tri horojn plu - ni ne revenos ĝis post meznokto.
+Ekstraj sunlumoj estas sentaŭga, laŭ mi.
 
 
-BARBARA
-If it really dragged you that much, you wouldn’t do it.
+## JOHN
+
+00:02:24,304 --> 00:02:26,020
+
+Now we've still got a three-hour drive back.
+
+ni bezonas veturi tri horojn plu 
+
+
+# JOHN
+
+00:02:26,229 --> 00:02:28,030
+
+We're not going to be home until after midnight.
+Ni ne revenos ĝis post meznokto.
+
+
+## BARBARA
+
+00:02:28,071 --> 00:02:30,792
+
+Well, if it really bugged you, Johnny, you wouldn't do it.
 Se ĝi fakte ĝenas vin tiel, vi ne farus tion.
 
-JOHN
-Are you kidding?  I certainly don’t want to blow sunday on this scene. 
-Ĉu vi ŝercas? Certe, mi ne volas malŝpari dimanĉon tie ĉi. 
 
-We’re gonna either have to move mother to Parkville or move the grave to pittsburgh.
-Ni devas aŭ transloĝigi panjon al Parkurbeto aŭ transloĝigi la tombon al Picburgo.
+## JOHN
 
-BARBARA
-Oh, you’re just being silly. Mother can’t make a drive like this.
-Ho, vi estas fola. Panjo ne povas veturi longe.
+00:02:30,918 --> 00:02:33,681
 
-JOHN
-Look, twenty-five dollars ... “We Still Remember”... I don’t, you know it ... I don’t remember what the guy looks like.
+You think I wanna blow Sunday on a scene like this?
 
-BARBARA
-Johnny ... it takes you five minutes.
+Fakte, mi ne volas malŝpari dimanĉon tie ĉi. 
 
-JOHN
-Three hours... no, six hours ... six hours and five minutes.
 
-JOHN
-Mother wants to remember. So we have to drive four-hundred miles to plant a cross on a grave, as if he’s staring up through the ground
-to check out the decorations ... (he points at the cross inscription)
-... we have to remember ... and she stays at home.
+## JOHN
 
-BARBARA
-Johnny, we’re here ... all right?
+00:02:33,765 --> 00:02:35,858
 
-JOHN
-Hey ... hey, Barb, you know the radio’s been on all this time ...
+You know, I figure we're either gonna have to move mother out here,
 
-RADIO VOICE
-Ladies and gentlemen ... please forgive ... what ... hey, you got a signal, Charlie? ...
+Ni devas aŭ transloĝigi panjon al tie ĉi,
 
-JOHN
-It must have been the station.
 
-RADIO VOICE:
-... do not be al ...
+## JOHN
 
-JOHN
-Hey, the radio is okay, it’s just ...
+00:02:35,983 --> 00:02:38,495
 
-BARBARA
-You remember which row its in?
+or move the grave into Pittsburgh.
 
-JOHN
-Huh? Oh, it’s over here, I think...
+aŭ translokigi la tombon al Picburgo.
 
-JOHN
-Did you hear the radio?
 
-BARBARA
-Hmmm?
+## BARBARA
 
-JOHN
-The radio’s fixed. Must’ve been the station, not the radio.
+00:02:38,579 --> 00:02:40,588
 
-BARBARA
-Good ... you won’t be as bitchy driving home.
+She can't make a trip like this.
+ 
+Panjo ne povas veturi longe.
+ 
 
-JOHN
-Nobody around.
+## JOHN
+00:02:40,672 --> 00:02:42,848
 
-BARBARA
-Well, it is late. If you’d get up a little earlier ...
+I don't know that she can't.
 
-JOHN
-I already lost an hour’s sleep on the time change.
 
-BARBARA
-Oh, sometimes I think you complain just to hear yourself talk.
+## JOHN
+00:02:43,141 --> 00:02:46,909
 
-JOHN
-An hour earlier and it’d still be light. 
-It’s hard enough to find in the light.
+Is there any candy left?
 
-BARBARA
+
+## BARBARA
+
+00:02:43,141 --> 00:02:46,909
+
+No.
+
+
+## JOHN
+
+00:02:47,285 --> 00:02:49,671
+
+Look at this thing. "We still remember."
+
+
+## JOHN
+
+00:02:49,797 --> 00:02:52,267
+
+I don't. You know, I don't even remember what the man looks like.
+
+
+## BARBARA
+
+00:02:52,392 --> 00:02:54,067
+
+Johnny, it takes you five minutes.
+
+
+## JOHN
+00:02:54,192 --> 00:02:59,173
+
+5 minutes to put the wreath on the grave and 6 hours to drive back and forth.
+
+
+## JOHN
+
+00:02:59,215 --> 00:03:01,476
+
+Mother wants to remember, so we trot 200 miles into the count
+
+
+## JOHN
+
+00:03:01,559 --> 00:03:03,569
+
+and she stays at home.
+
+
+## BARBARA
+
+00:03:03,736 --> 00:03:05,536
+
+Well, we're here, John, all right?
+
+
+## RADIO
+
+00:03:12,945 --> 00:03:15,750
+
+Testing... back on... Ah, ladies and... We're coming back
+
+
+## JOHN
+00:03:15,876 --> 00:03:16,000
+Hey-
+
+
+## RADIO 
+
+00:03:15,876 --> 00:03:18,262
+
+on the air after an interruption due to technical problem...
+
+
+
+## JOHN
+
+00:03:30,694 --> 00:03:33,792
+
+There's nothing wrong with the radio. Must've been the station.
+
+
+## BARBARA
+
+00:03:33,917 --> 00:03:36,136
+
+Which row is it in?
+
+
+## JOHN
+
+00:03:56,438 --> 00:03:58,447
+
+There's no one around.
+
+
+## BARBARA
+
+00:03:58,698 --> 00:04:01,335
+
+Well, it's late. If you'd gotten up earlier...
+
+
+## JOHN
+
+00:04:01,377 --> 00:04:04,265
+
+Oh, look, I already lost an hour's sleep in the time change.
+
+
+## BARBARA
+
+00:04:04,349 --> 00:04:07,405
+
+I think you complain just to hear yourself talk.
+
+
+## BARBARA
+
+00:04:07,440 --> 00:04:09,122
+
 There it is.
 
-JOHN
-Wonder what happened to the one from last year? Every year twenty-five bucks for one of these things, and the one from last year is gone....
 
-BARBARA
-The flowers die.... and the caretaker or somebody takes them away...
 
-JOHN
-Yeah, a little spit and polish and they can sell them again. I wonder how many times we’ve bought the same...
+## JOHN
 
-JOHN
-C’mon, Barb, church was this morning...
+00:04:24,819 --> 00:04:27,707
 
-JOHN
-Well ... I mean ... prayin’s for church.
+I wonder what happened to the one from last year.
 
-BARBARA
-I haven’t seen you in church lately.
 
-JOHN
-Well, grandpa told me I was damned
-to hell ... 
-You remember? Right here... I jumped out at you from behind that tree ... Grandpa got all excited ... “You will be
-damned ta hell” ...
+## JOHN
+00:04:28,125 --> 00:04:31,097
 
-JOHN
-Right here, I jumped out from behind that tree at you.
+Each year we spend good money on these things.
 
-JOHN
-You used to be so scared here.
 
-BARBARA
-Johneee!
+## JOHN
 
-JOHN
-You’re still afraid...
+00:04:31,181 --> 00:04:33,777
 
-BARBARA
-Stop it... I mean it...
+We come out here, and the one from last year is gone.
 
-JOHN
-...They’re gonna get you, Barbara...
 
-BARBARA
-Stop it.. You’re ignorant...
+## BARBARA
 
-JOHN
-They’re coming for you, Barbara .... They’re gonna get you... 
+00:04:33,861 --> 00:04:35,744
 
-BARBARA
-Johnny, stop...
+Well, the flowers die,
 
-JOHN
-They’re coming out of their graves ... after you... they’re coming... to get you...
 
-BARBARA
-You’re acting like an idiot.
+## BARBARA
 
-JOHN
-Here comes one of them now...
+00:04:35,870 --> 00:04:38,549
 
-BARBARA
-He’ll hear you...
+And the caretaker or somebody takes them away.
 
-JOHN
-Coming to get you...
 
-JOHN
-I’m getting’ outa here... 
+## JOHN
 
-BARBARA
-John ....
+00:04:39,051 --> 00:04:42,106
 
-JOHN
-Hey... god...
+Yeah, a little spit and polish,
 
-BARBARA
-Johnee....
+
+## JOHN
+
+00:04:42,190 --> 00:04:43,404
+
+he can clean this up sell it next year.
+
+
+## JOHN
+
+00:04:44,116 --> 00:04:46,711
+
+Wonder how many times we bought the same one?
+
+
+## JOHN
+
+00:05:03,999 --> 00:05:06,804
+
+Hey, come on, Barb, church was this morning, huh?
+
+
+## JOHN
+
+00:05:25,725 --> 00:05:30,078
+
+Hey, I mean, praying's for church, huh? Come on.
+
+
+## BARBARA
+
+00:05:30,329 --> 00:05:33,134
+
+I haven't seen you in church lately.
+
+
+## JOHN
+
+00:05:35,059 --> 00:05:37,278
+
+Well, there's not much sense in my going to church.
+
+
+## JOHN
+
+00:05:37,989 --> 00:05:41,548
+
+Do you remember one time when we were small, we were out here?
+
+
+## JOHN
+
+00:05:41,673 --> 00:05:43,557
+
+It was from right over there.
+
+
+## JOHN
+
+00:05:43,682 --> 00:05:45,566
+
+I jumped out at you from behind the tree
+
+
+## JOHN
+
+00:05:45,650 --> 00:05:48,329
+
+And grandpa got all excited, and he shook his fist at me, and he said,
+
+
+## JOHN
+
+00:05:48,413 --> 00:05:50,715
+
+"Boy, you'll be damned to hell."
+
+
+## JOHN
+
+00:05:51,259 --> 00:05:53,561
+
+Remember that? Right over there.
+
+
+## JOHN
+
+00:05:54,190 --> 00:05:55,403
+
+Well, you used to really be scared here.
+
+
+## BARBARA
+
+00:05:57,036 --> 00:05:58,376
+
+Johnny.
+
+
+## JOHN
+00:05:58,794 --> 00:06:02,268
+
+Well, you're still afraid.
+
+
+## BARBARA
+00:05:58,794 --> 00:06:02,268
+
+Stop it now. I mean it.
+
+
+## JOHN
+
+00:06:05,952 --> 00:06:09,217
+
+They're coming to get you, Barbra.
+
+
+## BARBARA
+
+00:06:09,510 --> 00:06:12,154
+
+Stop it. You're ignorant.
+
+
+## JOHN
+
+00:06:12,189 --> 00:06:14,450
+
+They're coming for you, Barbra.
+
+
+## BARBARA
+
+00:06:15,203 --> 00:06:17,505
+
+Stop it. You're acting like a child.
+
+
+## JOHN
+
+00:06:17,840 --> 00:06:19,389
+
+They're coming for you.
+
+
+## JOHN
+
+00:06:19,975 --> 00:06:22,696
+
+Look! There comes one of them now.
+
+## BARBARA
+
+00:06:23,533 --> 00:06:26,379
+
+- He'll hear you.
+
+
+## JOHN
+
+00:06:23,533 --> 00:06:26,379
+
+- Here he comes. I getting out of here.
+
+## BARBARA
+
+00:06:26,547 --> 00:06:27,636
+
+Johnny!
+
+
+## BARBARA
+
+00:06:38,436 --> 00:06:39,607
+
+Johnny!
+
+
+## BARBARA
+
+00:06:39,691 --> 00:06:41,449
+
+Help me!
 
 *******************************************************************
 This is the ending of the Antaŭmontro script.
