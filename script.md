@@ -156,7 +156,7 @@ Panjo ne povas veturi longe.
 ### JOHN
 00:02:40,672 --> 00:02:42,848
 
-I don't know that she can't.
+Oh... I don't know that she can't.
 
 Mi dubas pri tio.
 
@@ -164,7 +164,7 @@ Mi dubas pri tio.
 ### JOHN
 00:02:43,141 --> 00:02:46,909
 
-Is there any candy left?
+Is there any of that candy left?
 
 Ĉu ni havas plu dolĉajojn?
 
@@ -217,7 +217,7 @@ Kvin minutoj por meti la garlandon sur la tombo, kaj ses horoj por veturi hejmen
 
 00:02:59,215 --> 00:03:01,476
 
-Mother wants to remember, so we trot 200 miles into the count
+Mother wants to remember, so we trot 200 miles into the country
 
 Patrino volas memori, do ni kunveturi 200 mejlojn
 
@@ -244,7 +244,7 @@ Ni ĉeestas, Johano. Bone?
 
 00:03:12,945 --> 00:03:15,750
 
-Testing... back on... Ah, ladies and... We're coming back
+Testing... back on... Ah, um, ladies and gentlemen... We're coming back
 
 Provo... ŝaltas... Ho, sinjorinoj kaj... Ni rekomencas -
 
@@ -594,7 +594,7 @@ Li aŭdos vin.
 
 00:06:23,533 --> 00:06:26,379
 
-Here he comes. I getting out of here.
+Here he comes now. I'm getting out of here.
 
 Li venas. Mi foriras tuj!
 
