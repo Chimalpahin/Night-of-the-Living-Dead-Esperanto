@@ -18,7 +18,7 @@ and perhaps overlaying text in the movie with Esperanto (where it can be done cl
 
 ## Current Phase
 
-Script currently needs to be translated into Esperanto. Nothing else can really be done until then. ;)
+Please view the TODO.md file for the most recent status and what needs to be done.
 
 ## Contributing
 
