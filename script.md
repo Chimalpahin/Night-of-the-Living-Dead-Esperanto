@@ -87,7 +87,7 @@ Nu, estas oka horo kaj estas ankoraŭ luma.
 
 A lot of good the extra daylight does us.
 
-Ekstraj sunlumoj estas sentaŭga, laŭ mi.
+Ekstra sunlumo estas sentaŭga, laŭ mi. (maybe *al ni*?
 
 
 ### JOHN
@@ -105,7 +105,7 @@ ni bezonas veturi tri horojn plu
 
 We're not going to be home until after midnight.
 
-Ni ne revenos ĝis post meznokto.
+Ni ne revenos hejmen post meznokto.
 
 
 ### BARBARA
@@ -132,7 +132,7 @@ Fakte, mi ne volas malŝpari dimanĉon tie ĉi.
 
 You know, I figure we're either gonna have to move mother out here,
 
-Ni devas aŭ transloĝigi panjon al tie ĉi,
+Aŭ ni transloĝigos panjon al tie ĉi,
 
 
 ### JOHN
@@ -158,7 +158,7 @@ Panjo ne povas veturi longe.
 
 Oh... I don't know that she can't.
 
-Mi dubas pri tio.
+Ho, Mi dubas pri tio.
 
 
 ### JOHN
@@ -193,7 +193,7 @@ Rigardu tiun ĉi. "Ni ankoraŭ memoras."
 
 I don't. You know, I don't even remember what the man looks like.
 
-Ne mi. Fakte, mi eĉ ne memoras kiel li aspektis.
+Ne mi. Fakte, mi ne eĉ memoras kiel li aspektis.
 
 
 ### BARBARA
@@ -202,7 +202,7 @@ Ne mi. Fakte, mi eĉ ne memoras kiel li aspektis.
 
 Johnny, it takes you five minutes.
 
-Joĉjo, ???
+Joĉjo, nur estos kvin minutoj
 
 
 ### JOHN
@@ -219,7 +219,7 @@ Kvin minutoj por meti la garlandon sur la tombo, kaj ses horoj por veturi hejmen
 
 Mother wants to remember, so we trot 200 miles into the country
 
-Patrino volas memori, do ni kunveturi 200 mejlojn
+Patrino volas memori, do ni veturas 200 mejlojn
 
 
 ### JOHN
@@ -228,7 +228,7 @@ Patrino volas memori, do ni kunveturi 200 mejlojn
 
 and she stays at home.
 
-kaj ŝi restis hejme.
+kaj ŝi restas hejme.
 
 
 ### BARBARA
